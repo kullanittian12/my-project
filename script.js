@@ -1,3 +1,3 @@
-function showMessage() {
-    alert('this is an external script!');
+function myFunction(){
+    document.getElementById("demo").innerHTML = "Hello World"
 }
